@@ -1,0 +1,45 @@
+:root {
+    /* Colors */
+    --color-bg-primary: #010A18;
+    --color-bg-secondary: #071937;
+    --color-bg-card: #021129;
+    --color-title-primary: #E7F0FE;
+    --color-text-secondary: #BAD5FC;
+    --color-accent: #3b82f6;
+    --color-accent-hover: #2563eb;
+    --color-border: #071937;
+
+    /* Typography */
+    --font-family-primary: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-size-xs: 0.75rem;
+    --font-size-sm: 0.875rem;
+    --font-size-base: 1rem;
+    --font-size-lg: 1.125rem;
+    --font-size-xl: 1.25rem;
+    --font-size-2xl: 1.5rem;
+    --font-size-3xl: 2rem;
+    --font-size-4xl: 2.5rem;
+    --font-size-5xl: 3rem;
+
+    /* Spacing */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 1.5rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 3rem;
+    --spacing-2xl: 4rem;
+
+    /* Container */
+    --container-max-width: 1200px;
+    --container-padding: 1.5rem;
+
+    /* Border Radius */
+    --radius-sm: 0.25rem;
+    --radius-md: 0.5rem;
+    --radius-lg: 0.75rem;
+
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-base: 0.3s ease;
+}
+
