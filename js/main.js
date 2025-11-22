@@ -70,7 +70,15 @@ const projects = [
         technology: ['Laravel', 'Revert', 'PHP', 'Mysql', 'Inertia.js', 'React'],
         buttonLink: 'https://github.com/SamuelP21/React-Inertia-Breeze-Tailwind',
         image: 'images/projects/RRHH.png',
-        demoLink : 'https://rrhhlaravel.samuraizcode.dev'
+        demoLink: 'https://rrhhlaravel.samuraizcode.dev'
+    },
+    {
+        title: 'Plugins para Moodle',
+        description: 'Colección de plugins para Moodle desarrollados con arquitectura MVC y mejores prácticas de desarrollo:<br>• <b>Backend robusto</b>: Implementación con PHP siguiendo estándares de Moodle y queries SQL optimizadas.<br>• <b>Frontend moderno</b>: Sistema de templates Mustache y compilación SCSS para interfaces responsive.<br>• <b>Seguridad y escalabilidad</b>: Control de acceso basado en capabilities, prevención de SQL injection y soporte completo de internacionalización.',
+        buttonText: 'Repositorio',
+        technology: ['PHP', 'Moodle API', 'Mustache', 'SCSS', 'SQL', 'i18n'],
+        buttonLink: 'https://github.com/SamuelP21/moodle-plugins',
+        image: 'images/projects/moodle.png',
     },
     {
         title: 'Portafolio',
