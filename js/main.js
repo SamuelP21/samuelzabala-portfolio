@@ -70,7 +70,7 @@ const projects = [
         technology: ['Laravel', 'Revert', 'PHP', 'Mysql', 'Inertia.js', 'React'],
         buttonLink: 'https://github.com/SamuelP21/React-Inertia-Breeze-Tailwind',
         image: 'images/projects/RRHH.png',
-        demoLink: 'https://rrhhlaravel.samuraizcode.dev'
+        //demoLink: 'https://rrhhlaravel.samuraizcode.dev'
     },
     {
         title: 'Plugins para Moodle',
